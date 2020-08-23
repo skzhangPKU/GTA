@@ -1,4 +1,5 @@
 # GTA.
+A Graph-Based Temporal Attention Framework for Multi-Sensor Traffic Flow Forecasting
 ![A Graph-Based Temporal Attention Framework for Multi-Sensor Traffic Flow Forecasting](https://github.com/skzhangPKU/GTA/blob/master/figures/framework.png)
 
 # Datasets
@@ -8,3 +9,5 @@ We process the collected traffic data by normalizing them to [0, 1] before we fe
 
 # Predictions
 The directory contains the prediction results of GTA  at 15 minutes, 30 minutes, and 60 minutes.
+
+The code will be released after the paper published.
