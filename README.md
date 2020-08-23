@@ -10,4 +10,4 @@ We process the collected traffic data by normalizing them to [0, 1] before we fe
 # Predictions
 The directory contains the prediction results of GTA  at 15 minutes, 30 minutes, and 60 minutes.
 
-The code will be released after the paper published.
+The **code will be released** after the paper published.
