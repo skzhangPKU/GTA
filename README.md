@@ -13,6 +13,22 @@ We process the collected traffic data by normalizing them to [0, 1] before we fe
 The distribution of monitoring stations studied in our experiment.
 ![The distribution of monitoring stations](https://github.com/skzhangPKU/GTA/blob/master/figures/ENG-HW.png)
 
-# Code
-Please contact me via my email (skzhang@pku.edu.cn)
+# Requirements for Reproducibility
 
+## System Requirements:
+- System: Ubuntu 18.04
+- Language: Python 3.6.8
+- Devices: GeForce RTX 2080 Ti GPU
+
+## Library Requirements:
+
+- scipy == 1.3.1
+- numpy == 1.16.0
+- pandas == 0.25.2
+- tensorflow-gpu== 1.13.0rc2
+- scikit-learn == 0.22.1
+- tables == 3.6.1
+- h5py == 2.10.0
+
+# Contact
+For questions, please feel free to reach out via email at skzhang@pku.edu.cn.
