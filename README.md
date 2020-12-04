@@ -11,6 +11,7 @@ We evaluate GTA using real traffic data collected from all the strategic road ne
 We process the collected traffic data by normalizing them to [0, 1] before we feed them into the algorithm. Because the dataset does not contain road network distance between two monitoring stations, we enhance the data with these topology information based on distances collected from Google Services.
 
 The distribution of monitoring stations studied in our experiment.
+
 ![The distribution of monitoring stations](https://github.com/skzhangPKU/GTA/blob/master/figures/ENG-HW.png)
 
 # Graph-convolution-based Baselines
