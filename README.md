@@ -13,14 +13,20 @@ We process the collected traffic data by normalizing them to [0, 1] before we fe
 The distribution of monitoring stations studied in our experiment.
 ![The distribution of monitoring stations](https://github.com/skzhangPKU/GTA/blob/master/figures/ENG-HW.png)
 
-# Several Baselines
+# Graph-convolution-based Baselines
 
 T-GCN: https://github.com/lehaifeng/T-GCN
-GMAN: https://github.com/zhengchuanpan/GMAN
-STSGCN: https://github.com/Davidham3/STSGCN
-ASTGCN: https://github.com/guoshnBJTU/ASTGCN-r-pytorch
+
 STGCN: https://github.com/VeritasYin/STGCN_IJCAI-18
+
+STSGCN: https://github.com/Davidham3/STSGCN
+
+ASTGCN: https://github.com/guoshnBJTU/ASTGCN-r-pytorch
+
+GMAN: https://github.com/zhengchuanpan/GMAN
+
 Graph-WaveNet: https://github.com/nnzhan/Graph-WaveNet
+
 DCRNN: https://github.com/liyaguang/DCRNN
 
 # Requirements for Reproducibility
