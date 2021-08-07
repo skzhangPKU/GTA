@@ -46,7 +46,7 @@ DCRNN: https://github.com/liyaguang/DCRNN
 
 # Citation
 If you find this repository useful in your research, please cite the following paper:
-
+```
 @article{zhang2021graph,
   title={A Graph-Based Temporal Attention Framework for Multi-Sensor Traffic Flow Forecasting},
   author={Zhang, Shaokun and Guo, Yao and Zhao, Peize and Zheng, Chuanpan and Chen, Xiangqun},
@@ -54,6 +54,6 @@ If you find this repository useful in your research, please cite the following p
   year={2021},
   publisher={IEEE}
 }
-
+```
 # Contact
 For questions, please feel free to reach out via email at skzhang@pku.edu.cn.
