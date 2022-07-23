@@ -11,39 +11,6 @@ The distribution of monitoring stations studied in our experiment.
 
 ![The distribution of monitoring stations](https://github.com/skzhangPKU/GTA/blob/master/figures/ENG-HW.png)
 
-# Graph-convolution-based Baselines
-
-T-GCN: https://github.com/lehaifeng/T-GCN
-
-STGCN: https://github.com/VeritasYin/STGCN_IJCAI-18
-
-STSGCN: https://github.com/Davidham3/STSGCN
-
-ASTGCN: https://github.com/guoshnBJTU/ASTGCN-r-pytorch
-
-GMAN: https://github.com/zhengchuanpan/GMAN
-
-Graph-WaveNet: https://github.com/nnzhan/Graph-WaveNet
-
-DCRNN: https://github.com/liyaguang/DCRNN
-
-# Requirements for Reproducibility
-
-## System Requirements:
-- System: Ubuntu 18.04
-- Language: Python 3.6.8
-- Devices: GeForce RTX 2080 Ti GPU
-
-## Library Requirements:
-
-- scipy == 1.3.1
-- numpy == 1.16.0
-- pandas == 0.25.2
-- tensorflow-gpu== 1.13.0rc2
-- scikit-learn == 0.22.1
-- tables == 3.6.1
-- h5py == 2.10.0
-
 # Citation
 If you find this repository useful in your research, please cite the following paper:
 ```
